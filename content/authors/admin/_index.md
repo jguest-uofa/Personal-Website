@@ -1,8 +1,8 @@
 ---
 title: James Guest
 role: Mechanical Engineering Co-op Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include distributed robotics, clean energy and
+  additive manufacturing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
